@@ -1,0 +1,5 @@
+# Direct dependencies detected in the release-preparation environment.
+# These versions document the current reproducibility environment; they are not claimed to be every original historical execution environment.
+numpy==2.5.2
+pandas==3.0.5
+scikit-learn==1.9.0

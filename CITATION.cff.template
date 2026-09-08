@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article and archived software release."
+title: "Wearable incremental value in repetitive work: analysis code"
+version: 1.0.0
+type: software
+license: MIT
+date-released: 2026-09-08
+
+# FINALIZATION REQUIRED BEFORE PUBLIC RELEASE:
+# Add the complete ordered author list under `authors:`.
+# Add the Zenodo software DOI under `doi:` after the archived release exists.
+# Add the final GitHub repository URL under `repository-code:`.
+# Add the final article DOI under `preferred-citation:` after publication.

@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Raw / third-party data: do not redistribute
+raw/
+raw_data/
+source_data/
+third_party_data/
+downloads/
+data/raw/
+data/source/
+data/third_party/
+
+# Large pretrained checkpoints / caches
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.bin
+.cache/
+huggingface/
+hf_cache/
+
+# Local scratch / temporary files
+tmp/
+temp/
+scratch/
+*.tmp
+*.log~
+
+# Office lock files
+~$*.docx
+~$*.xlsx
+
+# Secrets / credentials
+.env
+*.key
+*.pem
+credentials*
+token*
+# Release-safety additions
+_pre_portability_patch_backup_*/
+*.npy
+*.npz
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib

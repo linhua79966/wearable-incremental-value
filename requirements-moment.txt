@@ -1,0 +1,8 @@
+# Direct dependencies detected in the release-preparation environment.
+# These versions document the current reproducibility environment; they are not claimed to be every original historical execution environment.
+numpy==1.25.2
+pandas==2.2.3
+scikit-learn==1.9.0
+torch==2.14.0+cu130
+huggingface-hub==0.24.0
+momentfm==0.1.4

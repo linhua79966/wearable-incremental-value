@@ -1,0 +1,11 @@
+{
+    "python_version":  "3.12.10",
+    "python_implementation":  "CPython",
+    "platform":  "Windows-11-10.0.26200-SP0",
+    "executable":  "\u003cenvironment-specific-python-path-redacted\u003e",
+    "packages":  {
+                     "numpy":  "2.5.2",
+                     "pandas":  "3.0.5",
+                     "scikit-learn":  "1.9.0"
+                 }
+}

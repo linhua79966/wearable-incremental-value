@@ -1,0 +1,14 @@
+{
+    "python_version":  "3.11.5",
+    "python_implementation":  "CPython",
+    "platform":  "Windows-10-10.0.26200-SP0",
+    "executable":  "\u003cenvironment-specific-python-path-redacted\u003e",
+    "packages":  {
+                     "numpy":  "1.25.2",
+                     "pandas":  "2.2.3",
+                     "scikit-learn":  "1.9.0",
+                     "torch":  "2.14.0+cu130",
+                     "huggingface-hub":  "0.24.0",
+                     "momentfm":  "0.1.4"
+                 }
+}
