@@ -4,7 +4,7 @@ Analysis and reproducibility code for the manuscript:
 
 **Incremental predictive value of wearable sensing beyond worker and task context in repetitive work**
 
-Release candidate: **v1.0.0**
+Release candidate: **v1.0.1**
 
 ## Study question
 
@@ -41,7 +41,7 @@ docs/
 
 This repository does **not** redistribute the original third-party raw datasets.
 
-Users must obtain Dataset A, Dataset B, and Dataset C from their respective original repositories/publications. The final public release will provide exact source citations and access information in `data/README.md`.
+Users must obtain Dataset A, Dataset B, and Dataset C from their respective original repositories/publications. Source-data access information and redistribution constraints are documented in data/README.md.
 
 The public release also excludes:
 - row-level participant prediction tables;
@@ -134,7 +134,7 @@ Scripts 33b–33d document convergence and targeted recovery audits.
 
 Pretrained weights are **not redistributed**.
 
-The final release documentation records the pretrained model identifier, immutable revision, relevant package version, extraction policy, and model/output SHA256 values needed to identify the exact evaluated representation.
+The release documentation records the pretrained model identifier, immutable revision, relevant package version, extraction policy, and model/output SHA256 values needed to identify the exact evaluated representation.
 
 ## Reproducibility boundary
 
@@ -148,7 +148,7 @@ The released code does not imply that:
 
 ## Authors
 
-- Ceng Yao - ORCID: https://orcid.org/0009-0004-9849-9520
+- Cenglin Yao - ORCID: https://orcid.org/0009-0004-9849-9520
 - Xianhuan Wu
 - Lesheng Liu
 
@@ -159,9 +159,8 @@ Licensing of the original datasets, pretrained models, and third-party software 
 
 ## Citation
 
-A final `CITATION.cff` is included with the ordered author list and repository URL. The Zenodo software DOI will be added after the immutable v1.0.0 release has been archived.
+A CITATION.cff file is included with the ordered author list, ORCID information, software version, license, and repository URL. Versioned software releases are archived through the GitHub-Zenodo integration.
 
 ## Release status
 
-**Do not cite this staging directory yet.**
-The immutable public software DOI will be assigned after the GitHub v1.0.0 release is archived in Zenodo.
+This repository is public. For reproducible citation, use the archived Zenodo software release corresponding to the software version cited in the manuscript.
