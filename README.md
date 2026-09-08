@@ -4,7 +4,7 @@ Analysis and reproducibility code for the manuscript:
 
 **Incremental predictive value of wearable sensing beyond worker and task context in repetitive work**
 
-Release candidate: **v1.0.1**
+Release: **v1.0.1**
 
 ## Study question
 
