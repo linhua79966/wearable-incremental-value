@@ -16,9 +16,9 @@
 - [x] PORTABILITY.md
 - [x] Environment snapshots generated
 - [x] Direct-dependency requirements generated
-- [ ] Final ordered author list inserted
-- [ ] Final CITATION.cff created from template
-- [ ] GitHub repository URL inserted
+- [x] Final ordered author list inserted
+- [x] Final CITATION.cff created
+- [x] GitHub repository URL inserted
 - [ ] GitHub release v1.0.0 created
 - [ ] Zenodo software DOI minted
 

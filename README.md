@@ -146,15 +146,20 @@ The released code does not imply that:
 - the reported participant-cluster bootstrap intervals represent external-validation uncertainty;
 - predictive increment is a causal or deployment-utility estimate.
 
-## License
+## Authors
 
+- Ceng Yao - ORCID: https://orcid.org/0009-0004-9849-9520
+- Xianhuan Wu
+- Lesheng Liu
+
+## License
 Author-generated code in this repository is released under the **MIT License**.
 
 Licensing of the original datasets, pretrained models, and third-party software remains governed by their respective source licenses.
 
 ## Citation
 
-`CITATION.cff.template` is included during pre-publication preparation. It will be converted to the final `CITATION.cff` after the ordered author list, GitHub URL, and Zenodo software DOI are finalized.
+A final `CITATION.cff` is included with the ordered author list and repository URL. The Zenodo software DOI will be added after the immutable v1.0.0 release has been archived.
 
 ## Release status
 

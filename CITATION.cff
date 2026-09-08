@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived software release and the associated article when available."
+title: "Wearable incremental value in repetitive work: analysis code"
+version: 1.0.0
+type: software
+authors:
+  - family-names: "Yao"
+    given-names: "Ceng"
+    orcid: "https://orcid.org/0009-0004-9849-9520"
+  - family-names: "Wu"
+    given-names: "Xianhuan"
+  - family-names: "Liu"
+    given-names: "Lesheng"
+license: MIT
+repository-code: "https://github.com/linhua79966/wearable-incremental-value"
+date-released: 2026-09-08
