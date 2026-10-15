@@ -2,7 +2,7 @@
 
 Analysis and reproducibility code for the manuscript:
 
-**Incremental predictive value of wearable sensing beyond worker and task context in repetitive work**
+**Incremental Predictive Value of Wearable Sensing for Worker Fatigue Assessment: A Participant-Separated Multi-Dataset Evaluation**
 
 Release: **v1.0.1**
 
@@ -50,7 +50,7 @@ The public release also excludes:
 - derived embedding NPZ files;
 - pretrained model checkpoints.
 
-A separate Zenodo record is being prepared for author-generated aggregate/fold-level results, feature metadata, and reproducibility audits.
+Author-generated derived reproducibility materials are publicly archived on Zenodo (version v1.0.0; DOI: https://doi.org/10.5281/zenodo.22661607), including aggregate and fold-level results, feature dictionaries, and reproducibility audit records.
 
 ## Environments
 
@@ -160,6 +160,7 @@ Licensing of the original datasets, pretrained models, and third-party software 
 ## Citation
 
 A CITATION.cff file is included with the ordered author list, ORCID information, software version, license, and repository URL. Versioned software releases are archived through the GitHub-Zenodo integration.
+The official reproducibility software release (v1.0.1) is archived on Zenodo at https://doi.org/10.5281/zenodo.22661192.
 
 ## Release status
 
