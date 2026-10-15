@@ -1,5 +1,13 @@
 # v1.0.0 public-release checklist
 
+> **Historical checklist — not the current release status.**
+>
+> This document preserves the original v1.0.0 release-preparation checklist, including its historical checkbox states. Unchecked items have not been retrospectively marked as completed.
+>
+> The repository has since been publicly released. The current software release is **v1.0.1** (https://doi.org/10.5281/zenodo.22661192). Derived reproducibility materials are separately archived as **v1.0.0** (https://doi.org/10.5281/zenodo.22661607).
+>
+> For current release information, consult `README.md`, `CITATION.cff`, and `RELEASE_STAGING_STATUS.md`.
+
 ## Scientific freeze
 - [x] Final manuscript analysis logic frozen
 - [x] GitHub code whitelist established
